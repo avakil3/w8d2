@@ -45,7 +45,7 @@ function makeArray(d1, d2) {
 
 
 
-console.log([[1,2],[3,4],[5,6]].transpose())
+// console.log([[1,2],[3,4],[5,6]].transpose())
 
 // 1,2
 // 3,4
